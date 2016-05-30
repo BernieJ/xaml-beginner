@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>OPSI-LT-068</Machine>
+    <WindowsUser>Bernie.Jordaan</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a5451280-5a1f-44c4-8c59-77a917fc30d5</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\bin\Debug\ResturantManager.Windows.exe">
+      <PackagePath>ResturantManager.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\bin\Debug\Expedite.xbf">
+      <PackagePath>Expedite.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\bin\Debug\Orders.xbf">
+      <PackagePath>Orders.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\bin\Debug\ResturantManager.Windows.xr.xml">
+      <PackagePath>ResturantManager.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

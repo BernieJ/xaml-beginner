@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>OPSI-LT-068</Machine>
+    <WindowsUser>Bernie.Jordaan</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a5451280-5a1f-44c4-8c59-77a917fc30d5</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>3D73B4F649C35E142815834136694C9653C62BCDEC6C1EF698338F1E55953B65</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a5451280-5a1f-44c4-8c59-77a917fc30d5_1.0.0.0_neutral__s0b4mh09phz50</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a5451280-5a1f-44c4-8c59-77a917fc30d5_s0b4mh09phz50!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a5451280-5a1f-44c4-8c59-77a917fc30d5</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Bernie.Jordaan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-30T06:24:45.099</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\bin\Debug\ResturantManager.Windows.exe">
+      <PackagePath>ResturantManager.Windows.exe</PackagePath>
+      <Modified>2016-05-30T06:24:44.363</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-05-30T06:24:44.139</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\bin\Debug\Expedite.xbf">
+      <PackagePath>Expedite.xbf</PackagePath>
+      <Modified>2016-05-30T06:24:44.149</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-05-30T06:24:44.159</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\bin\Debug\Orders.xbf">
+      <PackagePath>Orders.xbf</PackagePath>
+      <Modified>2016-05-30T06:24:44.166</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\bin\Debug\ResturantManager.Windows.xr.xml">
+      <PackagePath>ResturantManager.Windows.xr.xml</PackagePath>
+      <Modified>2016-05-30T06:24:43.906</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-05-30T06:24:44.610</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

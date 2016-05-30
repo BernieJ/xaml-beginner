@@ -1,0 +1,1 @@
+C:\Users\Bernie.Jordaan\Documents\GitHub\xaml-beginner\ResturantManager\ResturantManager\ResturantManager.Windows\ResturantManager.Windows.csproj;neutral
